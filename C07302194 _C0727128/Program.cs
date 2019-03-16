@@ -8,6 +8,8 @@ namespace C0730194_C0727128
 {
 
     /// <summary>
+    ///  Nirmal Patel - C0730194
+    ///  Harpreet  Singh - C0727128
     /// Bank Account demo class.
     /// </summary>
     public class BankAccount
